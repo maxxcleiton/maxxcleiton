@@ -1,8 +1,6 @@
 <h1 align="center">Olá👋, eu sou o Max Cleiton</h1>
 <h3 align="center">Um desenvolvedor frontend aqui do Brasil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxxcleiton" alt="maxxcleiton" /></a> </p>
-
 - 🌱 Atualmente aprendendo **React, JavaScript, and english language.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
