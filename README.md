@@ -1,15 +1,15 @@
-<h1 align="center">Olá👋, eu sou o Max Cleiton</h1>
-<h3 align="center">Um desenvolvedor frontend aqui do Brasil</h3>
+<h1 align="center">Olá👋, Max Cleiton aqui!</h1>
+<h3 align="center">Desenvolvedor frontend brasileiro nativo</h3>
 
 - 🌱 Atualmente aprendendo **React, JavaScript, and english language.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
 
-- 💬 Me pergunte sobre: **js, frontend e blueedtech**
+- 💬 Me pergunte sobre: **javascript, frontend e blueedtech**
 
 - 📫 Meu email **maxcleiton@live.com**
 
-- 📄 Saiba sobre minhas experiências curriculares [https://drive.google.com/file/d/1FyQlWNXJD1g_t5vRvf5qES7tdre6OaVE/view?usp=sharing](https://drive.google.com/file/d/1FyQlWNXJD1g_t5vRvf5qES7tdre6OaVE/view?usp=sharing)
+- 📄 Saiba mais sobre minhas experiências curriculares: [https://drive.google.com/file/d/1FyQlWNXJD1g_t5vRvf5qES7tdre6OaVE/view?usp=sharing](https://drive.google.com/file/d/1FyQlWNXJD1g_t5vRvf5qES7tdre6OaVE/view?usp=sharing)
 
 - ⚡ Fun fact **Acho que gostar de jogar incentiva a estudar para trabalhar para jogar :D**
 
