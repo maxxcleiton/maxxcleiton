@@ -1,5 +1,5 @@
-<h1 align="center">Olá👋, Max Cleiton aqui!</h1>
-<h3 align="center">Desenvolvedor frontend brasileiro nativo</h3>
+<h1 align="center">Max Cleiton</h1>
+<h3 align="center">Desenvolvedor frontend</h3>
 
 - 🌱 Atualmente aprendendo **React, JavaScript, and english language.**
 
