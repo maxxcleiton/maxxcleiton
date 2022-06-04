@@ -1,7 +1,7 @@
 <h1 align="center">Max Cleiton</h1>
-<h3 align="center">Desenvolvedor frontend</h3>
+<h3 align="center">Desenvolvedor frontend WEB</h3>
 
-- 🌱 Atualmente aprendendo **React, JavaScript, and english language.**
+- 🌱 Atualmente aprendendo **React, JavaScript, no curso de Desenvolvimento Web da Blue EdTech.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
 
