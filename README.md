@@ -1,30 +1,31 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
 <h3 align="center">Bem-vindo ao meu perfil GitHub!</h3>
-<br><br>
-- 🌱 Atualmente aprendendo: *React com JavaScript. Front-end - Desenvolvimento Web na Blue EdTech*
+<br>
+- 🌱 Atualmente aprendendo: React com JavaScript. Front-end - Desenvolvimento Web na Blue EdTech
 <br>
 <h5>Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
-<br><br>
-----------------------------------------------
+<br>
+
 <form>
 <h4>Roadmap de projetos feitos na BlueEdTech:</h4>
 
 <h5>Módulo 1 - Lógica de programação - Javascript puro</h5>
-<a href="t.ly/NY_K" target="_blank">Projeto 01 - Jornada do Herói</a>
-<a href="t.ly/HFiU" target="_blank">Projeto 02 - Pedra, papel e tesoura</a>
-<a href="t.ly/_IRf" target="_blank">Projeto 03 - Ficção Interativa</a>
+<a href="t.ly/NY_K" target="_blank">• Projeto 01 - Jornada do Herói</a>  <br>
+<a href="t.ly/HFiU" target="_blank">• Projeto 02 - Pedra, papel e tesoura</a>  <br>
+<a href="t.ly/_IRf" target="_blank">• Projeto 03 - Ficção Interativa</a>  <br>
 
 <h5>Módulo 2 - Javascript, Node.JS, HTML, CSS, Express.JS, Postgres, SQL, CRUD</h5>
-<a href="t.ly/Hoah" target="_blank">Projeto 01 - Jogo do Humor</a>
-<a href="t.ly/W1QE" target="_blank">Projeto 02 - Pokedex</a>
-<a href="t.ly/aLFY" target="_blank">Projeto 03 - Catálogo de filmes/séries</a>
+<a href="t.ly/Hoah" target="_blank">• Projeto 01 - Jogo do Humor (DOM, JS, HTML, CSS)</a>  <br>
+<a href="t.ly/W1QE" target="_blank">• Projeto 02 - Pokedex (Rotas, Nodemon, Express, .env) </a>  <br>
+<a href="t.ly/aLFY" target="_blank">• Projeto 03 - Catálogo de filmes/séries (CRUD, postgres, SQL, NodeJS)</a>  <br>
 
 <h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="t.ly/2kno" target="_blank">Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest</a>
-<a href="t.ly/UfRQ" target="_blank">Projeto 02 - El Geladon (React, CRUD em mock)</a>
-<a href="t.ly/FCdu" target="_blank">Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>
+<a href="t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
+<a href="t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
+<a href="t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
 
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
+<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List</a>  <br>
 </form>
 ----------------------------------------------
 <br><br>
