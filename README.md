@@ -4,10 +4,12 @@
 <br>
 - 🌱 Atualmente aprendendo: React com JavaScript. Front-end - Desenvolvimento Web na Blue EdTech
 <br>
-<h5>Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
+<h5>**Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
+<br>
+<a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">✨Meu Portfólio</a>
 <br>
 
-<h3 align="center">Roadmap de projetos feitos na BlueEdTech:</h4>
+<h3 align="center">🚀Roadmap de projetos feitos na Blue EdTech:</h4>
 
 <h5>Módulo 1 - Lógica de programação - Javascript puro</h5>
 <a href="https://t.ly/NY_K" target="_blank">• Projeto 01 - Jornada do Herói</a>  <br>
@@ -20,17 +22,17 @@
 <a href="https://t.ly/aLFY" target="_blank">• Projeto 03 - Catálogo de filmes/séries (CRUD, postgres, SQL, NodeJS)</a>  <br>
 
 <h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="https://t.ly/2kno">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
-<a href="https://t.ly/UfRQ">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
-<a href="https://t.ly/FCdu">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
+<a href="https://t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
+<a href="https://t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
+<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
 
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
+<a href="https://t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
 <br>
 <br>
 
 <!-- <h5>----------------------------------------------</h5> -->
-<h3 align="center">Fale comigo:</h3>
+<h3 align="center">📱Fale comigo:</h3>
 <h5>Email: maxcleiton@live.com</h5>
 <h5>Discord: Silverman#3152</h5>
 
@@ -42,7 +44,7 @@
 <br>
 <br>
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">☀ Skills:</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -53,6 +55,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<br>
 
 <div>
   <a href="https://github.com/maxxcleiton">
