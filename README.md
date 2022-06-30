@@ -3,11 +3,31 @@
 <br><br>
 - 🌱 Atualmente aprendendo: **React com JavaScript, focado no front-end - Desenvolvimento Web na Blue EdTech**
 <br><br>
-- React em renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState,useEffect, props)
+- <h5>Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
 <br><br>
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui nos meus repositórios: [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
 - <br><br>
-<h6>Roadmap de projetos feitos na BlueEdTech:</h6>
+- 
+<h3>Roadmap de projetos feitos na BlueEdTech:</h3>
+
+<h4>Módulo 1 - Lógica de programação - Javascript puro</h4>
+<a href="t.ly/NY_K" target="_blank">Projeto 01 - Jornada do Herói</a>
+<a href="t.ly/HFiU" target="_blank">Projeto 02 - Pedra, papel e tesoura</a>
+<a href="t.ly/_IRf" target="_blank">Projeto 03 - Ficção Interativa</a>
+
+##<h4>Módulo 2 - Javascript, Node.JS, HTML, CSS, Express.JS, Postgres, SQL, CRUD</h4>
+<a href="t.ly/Hoah" target="_blank">Projeto 01 - ogo do Humor</a>
+<a href="t.ly/W1QE" target="_blank">Projeto 02 - Pokedex</a>
+<a href="t.ly/aLFY" target="_blank">Projeto 03 - Catálogo de filmes/séries</a>
+
+###<h4>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h4>
+<a href="t.ly/2kno" target="_blank">Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest</a>
+<a href="t.ly/UfRQ" target="_blank">Projeto 02 - El Geladon (React, CRUD em mock)</a>
+<a href="t.ly/FCdu" target="_blank">Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>
+
+<h4>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h4>
+
+
 
 - 💬 Me pergunte sobre: **javascript, frontend e blueedtech**
 
