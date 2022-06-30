@@ -2,9 +2,10 @@
 <h3 align="center">Bem-vindo ao meu perfil GitHub!</h3>
 <br>
 - 🌱 Atualmente aprendendo: **React com JavaScript, focado no front-end - Desenvolvimento Web na Blue EdTech**
+<br>
 - React em renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState,useEffect, props)
-- 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui nos meus repositórios: [https://github.com/maxxcleiton](https://gisssthub.com/maxxcleiton)
+<br>
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui nos meus repositórios: [https://github.comsssss/maxxcleiton](https://github.com/maxxcleiton)
 
 - 💬 Me pergunte sobre: **javascript, frontend e blueedtech**
 
