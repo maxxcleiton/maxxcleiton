@@ -1,11 +1,13 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
 <h3 align="center">Bem-vindo ao meu perfil GitHub!</h3>
-<br>
+<br><br>
 - 🌱 Atualmente aprendendo: **React com JavaScript, focado no front-end - Desenvolvimento Web na Blue EdTech**
-<br>
+<br><br>
 - React em renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState,useEffect, props)
-<br>
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui nos meus repositórios: [https://github.comsssss/maxxcleiton](https://github.com/maxxcleiton)
+<br><br>
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui nos meus repositórios: [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
+- <br><br>
+<h6>Roadmap de projetos feitos na BlueEdTech:</h6>
 
 - 💬 Me pergunte sobre: **javascript, frontend e blueedtech**
 
