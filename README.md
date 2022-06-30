@@ -1,13 +1,13 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
 <h3 align="center">Bem-vindo ao meu perfil GitHub!</h3>
+
 <br>
 - 🌱 Atualmente aprendendo: React com JavaScript. Front-end - Desenvolvimento Web na Blue EdTech
 <br>
 <h5>Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
 <br>
 
-
-<h3>Roadmap de projetos feitos na BlueEdTech:</h4>
+<h3 align="center">Roadmap de projetos feitos na BlueEdTech:</h4>
 
 <h5>Módulo 1 - Lógica de programação - Javascript puro</h5>
 <a href="https://t.ly/NY_K" target="_blank">• Projeto 01 - Jornada do Herói</a>  <br>
@@ -25,12 +25,12 @@
 <a href="https://t.ly/FCdu">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
 
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>  <br>
-
-<h5>----------------------------------------------</h5>
+<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
+<br>
 <br>
 
-<h3>Fale comigo!</h3>
+<!-- <h5>----------------------------------------------</h5> -->
+<h3 align="center">Fale comigo:</h3>
 <h5>Email: maxcleiton@live.com</h5>
 <h5>Discord: Silverman#3152</h5>
 
@@ -39,8 +39,10 @@
 
 <a href="https://www.linkedin.com/in/maxcleiton/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/maxcleitonn" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<br>
+<br>
 
-<h3>Skills:</h3>
+<h3 align="center">Skills:</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
