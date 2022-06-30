@@ -1,6 +1,6 @@
 <h1 align="center">Max Cleiton</h1>
 <h3 align="center">Desenvolvedor frontend WEB</h3>
-
+<A HREF="mailto:maxcleiton@live.com">linkText</A>
 - 🌱 Atualmente aprendendo **React, JavaScript, no curso de Desenvolvimento Web da Blue EdTech.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [https://github.com/maxxcleiton](https://github.com/maxxcleiton)
