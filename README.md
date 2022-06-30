@@ -6,7 +6,7 @@
 <br>
 <h5>**Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
 <br>
-<a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">✨Meu Portfólio</a>
+<a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">→ ✨Meu Portfólio</a>
 <br>
 
 <h3 align="center">🚀Roadmap de projetos feitos na Blue EdTech:</h4>
@@ -24,7 +24,7 @@
 <h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
 <a href="https://t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
 <a href="https://t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
-<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
+<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfólio (React, CRUD em API Rest)</a>  <br>
 
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
 <a href="https://t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
