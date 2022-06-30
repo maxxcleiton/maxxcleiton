@@ -20,12 +20,12 @@
 <a href="t.ly/aLFY" target="_blank">• Projeto 03 - Catálogo de filmes/séries (CRUD, postgres, SQL, NodeJS)</a>  <br>
 
 <h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
-<a href="t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
-<a href="t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
+<a href="https://t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
+<a href="https://t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
+<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfolio (React, CRUD em API Rest</a>  <br>
 
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List</a>  <br>
+<a href="t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>  <br>
 </form>
 ----------------------------------------------
 <br><br>
