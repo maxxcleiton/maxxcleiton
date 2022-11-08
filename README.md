@@ -29,7 +29,7 @@
 <h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
 <a href="https://t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
 
-<h5>Módulo 5 - Front-end Typescript - Styled Components, eslint, React, API REST, </h5>
+<h5>Módulo 5 - Front-end Typescript - Styled Components, eslint, React, API REST </h5>
 <a href="https://github.com/maxxcleiton/games" target="_blank">• Projeto em grupo utilizando bastante do GitHub, API deployada e boas práticas de commit - Lista de Jogos (Typescript, React, Hooks (useState, useEffect), Renderização condicional)</a>
 <br>
 <br>
