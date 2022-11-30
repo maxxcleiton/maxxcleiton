@@ -9,31 +9,6 @@
 <a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">→ ✨Meu Portfólio</a>
 <br>
 
-<h3 align="center">🚀Roadmap de projetos feitos na Blue EdTech:</h4>
-
-<h5>Módulo 1 - Lógica de programação - Javascript puro</h5>
-<a href="https://t.ly/NY_K" target="_blank">• Projeto 01 - Jornada do Herói</a>  <br>
-<a href="https://t.ly/HFiU" target="_blank">• Projeto 02 - Pedra, papel e tesoura</a>  <br>
-<a href="https://t.ly/_IRf" target="_blank">• Projeto 03 - Ficção Interativa</a>  <br>
-
-<h5>Módulo 2 - Javascript, Node.JS, HTML, CSS, Express.JS, Postgres, SQL, CRUD</h5>
-<a href="https://t.ly/Hoah" target="_blank">• Projeto 01 - Jogo do Humor (DOM, JS, HTML, CSS)</a>  <br>
-<a href="https://t.ly/W1QE" target="_blank">• Projeto 02 - Pokedex (Rotas, Nodemon, Express, .env) </a>  <br>
-<a href="https://t.ly/aLFY" target="_blank">• Projeto 03 - Catálogo de filmes/séries (CRUD, postgres, SQL, NodeJS)</a>  <br>
-
-<h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="https://t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
-<a href="https://t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
-<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfólio (React, CRUD em API Rest)</a>  <br>
-
-<h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
-<a href="https://t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
-
-<h5>Módulo 5 - Front-end Typescript - Styled Components, eslint, React, API REST </h5>
-<a href="https://github.com/maxxcleiton/games" target="_blank">• Projeto em grupo utilizando bastante do GitHub, API deployada e boas práticas de commit - Lista de Jogos (Typescript, React, Hooks (useState, useEffect), Renderização condicional)</a>
-<br>
-<br>
-
 <!-- <h5>----------------------------------------------</h5> -->
 <h3 align="center">📱Fale comigo:</h3>
 <h5>Email: maxcleiton@live.com</h5>
@@ -83,3 +58,30 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxcleiton&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxxcleiton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
+
+<h3 align="center">🚀Roadmap de projetos feitos na Blue EdTech:</h4>
+
+<h5>Módulo 1 - Lógica de programação - Javascript puro</h5>
+<a href="https://t.ly/NY_K" target="_blank">• Projeto 01 - Jornada do Herói</a>  <br>
+<a href="https://t.ly/HFiU" target="_blank">• Projeto 02 - Pedra, papel e tesoura</a>  <br>
+<a href="https://t.ly/_IRf" target="_blank">• Projeto 03 - Ficção Interativa</a>  <br>
+
+<h5>Módulo 2 - Javascript, Node.JS, HTML, CSS, Express.JS, Postgres, SQL, CRUD</h5>
+<a href="https://t.ly/Hoah" target="_blank">• Projeto 01 - Jogo do Humor (DOM, JS, HTML, CSS)</a>  <br>
+<a href="https://t.ly/W1QE" target="_blank">• Projeto 02 - Pokedex (Rotas, Nodemon, Express, .env) </a>  <br>
+<a href="https://t.ly/aLFY" target="_blank">• Projeto 03 - Catálogo de filmes/séries (CRUD, postgres, SQL, NodeJS)</a>  <br>
+
+<h5>Módulo 3 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
+<a href="https://t.ly/2kno" target="_blank">• Projeto 01 - El Geladon (JS Vanilla, CRUD em API Rest)</a>  <br>
+<a href="https://t.ly/UfRQ" target="_blank">• Projeto 02 - El Geladon (React, CRUD em mock)</a>  <br>
+<a href="https://t.ly/FCdu" target="_blank">• Projeto 03 - Meu Portfólio (React, CRUD em API Rest)</a>  <br>
+
+<h5>Módulo 4 - Front-end - Javascript, React, CRUD, API REST, NodeJS, CSS, HTML</h5>
+<a href="https://t.ly/dgug" target="_blank">• Projeto 01 - To do List (React, Hooks (useState, useEffect), Renderização de lista)</a>
+
+<h5>Módulo 5 - Front-end Typescript - Styled Components, eslint, React, API REST </h5>
+<a href="https://github.com/maxxcleiton/games" target="_blank">• Projeto em grupo utilizando bastante do GitHub, API deployada e boas práticas de commit - Lista de Jogos (Typescript, React, Hooks (useState, useEffect), Renderização condicional)</a>
+<br>
+<br>
+
+
