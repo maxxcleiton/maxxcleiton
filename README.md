@@ -1,11 +1,7 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
-<h3 align="center">Bem-vindo ao meu perfil GitHub!</h3>
 
-<br>
-- 🌱 Atualmente aprendendo: React com JavaScript. Front-end - Desenvolvimento Web na Blue EdTech
-<br>
-<h5>**Assuntos React: renderização de listas, componentes, consumo de API Rest, CRUD, Hooks (useState, useEffect, props)</h5>
-<br>
+Assistente de Infraestrutura em TI | Linux | Zabbix | pfSense | Firewall | Jenkins | GitLab | Bash
+
 <a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">→ ✨Meu Portfólio</a>
 <br>
 
@@ -24,6 +20,14 @@
 
 <h3 align="center">☀Skills:</h3>
 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
