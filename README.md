@@ -1,8 +1,16 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
 
-Assistente de Infraestrutura em TI | Linux | Zabbix | pfSense | Firewall | Jenkins | GitLab | Bash
+Atualmente como Controlador de Versão na SM Soluções
 
-<a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">→ ✨Meu Portfólio</a>
+Excel | Linux | Zabbix | pfSense | Firewall | Jenkins | GitLab | Bash
+
+Thinkpad LOVER <3
+
+<a href="https://maxxcleiton.github.io/">→✨ Meu blog pessoal</a>
+
+<a href="https://maxxcleiton.github.io/MaxCleitonPortfolio">→ ✨ Meu Portfólio de Projetos durante o bootcamp da BLUE EDTECH</a>
+
+
 <br>
 
 <!-- <h5>----------------------------------------------</h5> -->
