@@ -1,6 +1,6 @@
 <h2 align="center">Olá! meu nome é Max Cleiton</h2>
 
-Atualmente como Controlador de Versão na SM Soluções
+Trabalhando atualmente no cargo de Controlador de Versão na SM Soluções
 
 Excel | Linux | Zabbix | pfSense | Firewall | Jenkins | GitLab | Bash
 
